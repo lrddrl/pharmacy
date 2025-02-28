@@ -22,7 +22,7 @@ python --version
 
 ### 4. 配置 Google API Key
 1. 在 `google api.txt` 文件中存放你的 Google API Key。
-2. 确保 `google_api.txt` 和 `fetch_phone_numbers_google.py` 在同一个文件夹中。
+2. 确保 `google api.txt` 和 `fetch_phone_numbers_google.py` 在同一个文件夹中。
 
 ### 5. 运行脚本
 在 CMD 窗口中，进入脚本所在的文件夹，然后输入以下命令运行脚本：
