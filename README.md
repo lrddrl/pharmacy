@@ -21,7 +21,7 @@ python --version
 确保你的数据表格命名为 **`data.csv`**，并放置在 **与脚本相同的文件夹** 内。
 
 ### 4. 配置 Google API Key
-1. 在 `google_api.txt` 文件中存放你的 Google API Key。
+1. 在 `google api.txt` 文件中存放你的 Google API Key。
 2. 确保 `google_api.txt` 和 `fetch_phone_numbers_google.py` 在同一个文件夹中。
 
 ### 5. 运行脚本
